@@ -1,0 +1,1 @@
+Eppic enables the use of C language in unexpected places. For example, inside a C centric tool like Red Hat's Linux crash analysis.
